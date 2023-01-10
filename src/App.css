@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hmp {
+  width: 100vw;
+  height: 479px;
+  left: 0px;
+  position: absolute;
+
+
+  background: #A9C2BE;
+}
+
+.meb {
+  width: 700px;
+  height: 478px;
+  margin-left: 135px;
+  background: url(./mebel.png);
+  display: inline-block;
+
+}
+
+.list {
+ 
+  width: 470px;
+  height: 400px;
+  margin-left: 600px;
+ 
+  margin-top: 30px;
+
+  padding-left: 50px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+
+
+
+
+  background: #FFFFFF;
+}
+
+.l1 {
+  width: 124px;
+  height: 15px;
+
+
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #FF9619;
+
+}
+
+.l2 {
+  font-size: 40px;
+}
+
+.in1 {
+  border: none;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.f1 {
+  width: 400px;
+}
+
+.chek {
+  margin-top: 50px;
+  height: 35px;
+  width: 41px;
+  display: flex;
+  flex-wrap: wrap;
+  display: inline-block;
+
+
+}
+
+.lbl {
+  font-size: 15px;
+  display: inline-block;
+  margin-left: 20px;
+ 
+
+
+}
+
+.br {
+  margin-left: 20px;
+}
+
+.kn {
+  width: 209.54px;
+  height: 43px;
+  color: #FFFFFF;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 100px;
+  border: none;
+
+  display: inline;
+
+  background: #FF9619
+}
+
+.fo1 {
+
+  display: flex;
+
+}
+
+.n {
+  margin: 100px 150px;
+
+
+}
+
+.nash {
+  margin-left: 135px;
+  margin-bottom: 30px;
+}
+.mub{
+  margin-left: 590px;
+ width: 20px;
+  display: inline-block;
+}
